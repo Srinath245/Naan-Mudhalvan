@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="srinath.css">
+    <title>Your Resume Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <h1>Srinath S</h1>
+        <p>Student</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Motivated and skillful person who wishes to create impact on technological feild</p>
+    </section>
+
+    <section id="experience">
+        <h2>Certications</h2>
+        <ul>
+            <li>Particpated in DeepRacer 2.0 - Robot car Automation</li>
+            <li>Completed Gogle cloud Study</li>
+            <li>Participated AR/VR hackathon-2022</li>
+            
+        </ul>
+        
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="education">
+            <h3>Bachelor of Science in Computer Science</h3>
+            <p><strong>College:</strong> KG College of Arts and Science</p>
+            <p><strong>Graduation Year:</strong> 2024</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML/CSS</li>
+            <li>JAVA</li>
+            <li>Python</li>
+            <li>SQL</li>
+            
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <p>Email: 2122KC40@kgcas.com</p>
+        <p>Phone: 9952118134</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/srinath-s-a33a32878" target="_blank">LinkedIn Profile</a></p>
+    </section>
+</body>
+</html>
